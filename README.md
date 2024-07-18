@@ -35,7 +35,7 @@ Vue.use(ElementUI);
 
 //全局引入
 import CrontabCh from "crontab-ch";
-Vue.use(CrontabCh); //使用方式：<vcrontab></vcrontab>
+Vue.use(CrontabCh); //使用方式：<CrontabCh></CrontabCh>
 
 //单独引入
 import CrontabCh from "crontab-ch";
